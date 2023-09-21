@@ -1,9 +1,24 @@
-.alt-95{
-    height: 95%;
-}
-
 .centro{
     padding: 0px 500px;
     color: gray;
     margin-bottom: 40px;
 }
+
+img{
+    padding-left: 90px;
+    
+}
+
+h2, span{
+    text-align: center;
+}
+
+p{
+    padding-left: 250px;
+}
+
+col{
+    flex-direction: column;
+
+}
+
